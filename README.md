@@ -125,7 +125,11 @@ análise detalhada e criteriosa na engenharia de software.
 
 4. Diagrama de Classes:
 
-Esta no outro arquivo :)
+![Diagrama de classes versão sem Banco](https://github.com/Cacauolii/SistemaControleEstoque/assets/163692053/51bed5ea-d3ef-4e55-a0ea-6bc738f5f44d)
+
+<div align="center">
+<img src="https://github.com/Cacauolii/SistemaControleEstoque/assets/163692053/51bed5ea-d3ef-4e55-a0ea-6bc738f5f44d" width="700px" />
+</div>
 
 5. Estratégia de Programação com IA:
 
