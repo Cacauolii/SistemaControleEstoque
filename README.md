@@ -1,6 +1,8 @@
-Integrantes: Cauan Silva Oliveira e Maria Luiza Vaz de Almeida 
+Integrantes: Cauan Silva Oliveira<br\ >
+RA: 12410020 <br\ >
+Maria Luiza Vaz de Almeida <br\ >
 RA: 124116634 
-RA: 12410020
+
 
 1. Proposta de Trabalho:
 
