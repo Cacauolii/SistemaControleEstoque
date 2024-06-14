@@ -1,6 +1,6 @@
-Integrantes: Cauan Silva Oliveira<br\ >
-RA: 12410020 <br\ >
-Maria Luiza Vaz de Almeida <br\ >
+Integrantes: Cauan Silva Oliveira<br/>
+RA: 12410020 <br/>
+Maria Luiza Vaz de Almeida <br/>
 RA: 124116634 
 
 
